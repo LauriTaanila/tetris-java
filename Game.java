@@ -6,6 +6,8 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.util.Random;
 
+//Lauri Taanila
+
 class GamePanel extends JPanel {
 
     @Override
