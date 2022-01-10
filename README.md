@@ -16,3 +16,5 @@ Controls:
 -LEFT and RIGHT: move block
 
 -R: reset
+
+![Screenshot](https://imgur.com/a/zSHxqD8)
