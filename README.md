@@ -17,4 +17,4 @@ Controls:
 
 -R: reset
 
-![Screenshot](https://imgur.com/a/zSHxqD8)
+![Screenshot](https://i.imgur.com/hGoOTIX.png)
